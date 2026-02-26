@@ -16,12 +16,10 @@ I build full-stack web apps and the occasional CLI tool. Most of my real work li
 
 ### What I've been up to
 
-- Running a small software consultancy. We build web apps for clients and ship our own products.
 - [Parhako](https://parhako.com) Built an EdTech platform with 1,300+ users and an ETL pipeline that processed 10,000+ exam questions from scanned textbooks.
 - Working on a course scheduling system using constraint-satisfaction algorithms for my capstone.
 
 ### Links
 
-- [sunnycrestsoftware.com](https://sunnycrestsoftware.com)
 - [safiullahrattar.site](https://safiullahrattar.site)
   
