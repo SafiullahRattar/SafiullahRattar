@@ -1,7 +1,5 @@
 # Hey, I'm Safi
 
-Software Engineering student at Carleton University, graduating April 2026. Based in Ottawa.
-
 I build full-stack web apps and the occasional CLI tool. Most of my real work lives in private repos for client projects, but here's what's public.
 
 ### What I work with
@@ -17,7 +15,6 @@ I build full-stack web apps and the occasional CLI tool. Most of my real work li
 ### What I've been up to
 
 - [Parhako](https://parhako.com) Built an EdTech platform with 1,300+ users and an ETL pipeline that processed 10,000+ exam questions from scanned textbooks.
-- Working on a course scheduling system using constraint-satisfaction algorithms for my capstone.
 
 ### Links
 
