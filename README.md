@@ -1,22 +1,31 @@
-# Hey, I'm Safi
+# Software Engineer — AI & Cloud
 
-I build full-stack web apps and the occasional CLI tool. Most of my real work lives in private repos for client projects, but here's what's public.
+I build production software. Full-stack web applications, AI pipelines, and the infrastructure they run on. Currently shipping products through [Sunnycrest Software Solutions](https://safiullahrattar.site).
 
-### What I work with
+---
 
-**Day-to-day:** TypeScript, JavaScript, Python, SQL
+### What I build
 
-**Frontend:** React, Next.js
+**Products.** Not demos. Not tutorials. Real applications with real users, real revenue, and AI integration that actually ships to production.
 
-**Backend:** Node.js, Express.js, PostgreSQL, MongoDB, Prisma
+- [**Parhako**](https://parhako.com) — EdTech platform with 1,600+ users and 50+ paying customers. AI-powered ETL pipeline processing 10,000+ exam questions from scanned textbooks using Gemini API.
+- [**vectordb-lite**](https://github.com/SafiullahRattar/vectordb-lite) — Vector database with HNSW indexing built from scratch. Zero AI dependencies — just numpy. An exercise in understanding how vector search actually works under the hood.
+- [**shaderlab**](https://github.com/SafiullahRattar/shaderlab) — Creative coding platform for GLSL shaders. Browse, write, and live-preview fragment shaders in the browser. Full-stack: React + TypeScript + WebGL frontend, Node.js backend, Docker deployment.
 
-**Other:** Git, Linux, Neovim
+### Tech
 
-### What I've been up to
+**Languages:** Python, TypeScript, JavaScript, SQL
 
-- [Parhako](https://parhako.com) Built an EdTech platform with 1,300+ users and an ETL pipeline that processed 10,000+ exam questions from scanned textbooks.
+**Frontend:** React, Next.js, WebGL
 
-### Links
+**Backend:** Node.js, Express, REST APIs
 
-- [safiullahrattar.site](https://safiullahrattar.site)
-  
+**Data:** PostgreSQL, MongoDB, Prisma
+
+**Cloud & Infra:** AWS, Docker, CI/CD, Linux
+
+**AI:** LLMs, RAG, embeddings, vector search
+
+---
+
+[Portfolio](https://safiullahrattar.site) · [LinkedIn](https://linkedin.com/in/safiullahrattar)
