@@ -5,7 +5,7 @@ Building production software through [Sunnycrest Software Solutions](https://saf
 ---
 
 **Parhako** — [parhako.com](https://parhako.com)  
-EdTech platform. 1,600+ users, 50+ paying customers. Built an AI pipeline that processes 10,000+ scanned exam questions into structured data using Gemini API.
+EdTech platform. 2,500+ users. Built an AI pipeline that processes 10,000+ scanned exam questions into structured data using Gemini API.
 
 **vectordb-lite** — [github.com/SafiullahRattar/vectordb-lite](https://github.com/SafiullahRattar/vectordb-lite)  
 Vector database with HNSW indexing written from scratch. Only dependency is numpy. Built to understand how vector search works under the hood.
