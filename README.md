@@ -1,31 +1,20 @@
 # Software Engineer — AI & Cloud
 
-I build production software. Full-stack web applications, AI pipelines, and the infrastructure they run on. Currently shipping products through [Sunnycrest Software Solutions](https://safiullahrattar.site).
+Building production software through [Sunnycrest Software Solutions](https://safiullahrattar.site). Full-stack applications, AI pipelines, cloud infrastructure.
 
 ---
 
-### What I build
+**Parhako** — [parhako.com](https://parhako.com)  
+EdTech platform. 1,600+ users, 50+ paying customers. Built an AI pipeline that processes 10,000+ scanned exam questions into structured data using Gemini API.
 
-**Products.** Not demos. Not tutorials. Real applications with real users, real revenue, and AI integration that actually ships to production.
+**vectordb-lite** — [github.com/SafiullahRattar/vectordb-lite](https://github.com/SafiullahRattar/vectordb-lite)  
+Vector database with HNSW indexing written from scratch. Only dependency is numpy. Built to understand how vector search works under the hood.
 
-- [**Parhako**](https://parhako.com) — EdTech platform with 1,600+ users and 50+ paying customers. AI-powered ETL pipeline processing 10,000+ exam questions from scanned textbooks using Gemini API.
-- [**vectordb-lite**](https://github.com/SafiullahRattar/vectordb-lite) — Vector database with HNSW indexing built from scratch. Zero AI dependencies — just numpy. An exercise in understanding how vector search actually works under the hood.
-- [**shaderlab**](https://github.com/SafiullahRattar/shaderlab) — Creative coding platform for GLSL shaders. Browse, write, and live-preview fragment shaders in the browser. Full-stack: React + TypeScript + WebGL frontend, Node.js backend, Docker deployment.
-
-### Tech
-
-**Languages:** Python, TypeScript, JavaScript, SQL
-
-**Frontend:** React, Next.js, WebGL
-
-**Backend:** Node.js, Express, REST APIs
-
-**Data:** PostgreSQL, MongoDB, Prisma
-
-**Cloud & Infra:** AWS, Docker, CI/CD, Linux
-
-**AI:** LLMs, RAG, embeddings, vector search
+**shaderlab** — [github.com/SafiullahRattar/shaderlab](https://github.com/SafiullahRattar/shaderlab)  
+Creative coding platform for GLSL shaders. Browse and live-preview fragment shaders in the browser. React, TypeScript, WebGL, Node.js, Docker.
 
 ---
+
+**Stack:** Python, TypeScript, React, Next.js, Node.js, PostgreSQL, AWS, Docker, LLMs, RAG
 
 [Portfolio](https://safiullahrattar.site) · [LinkedIn](https://linkedin.com/in/safiullahrattar)
