@@ -1,4 +1,4 @@
-# Software Engineer — AI & Cloud
+# Software Engineer, AI & Cloud
 
 Building production software through [Sunnycrest Software Solutions](https://safiullahrattar.site). Full-stack applications, AI pipelines, cloud infrastructure.
 
