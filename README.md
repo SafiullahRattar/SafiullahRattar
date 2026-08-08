@@ -1,20 +1,28 @@
-# Software Engineer, AI & Cloud
+# Safiullah Rattar
 
-Building production software through [Sunnycrest Software Solutions](https://safiullahrattar.site). Full-stack applications, AI pipelines, cloud infrastructure.
+Full-stack and AI engineer with 5+ years building web applications, LLM pipelines, and AWS infrastructure across fintech,
+education, and logistics. 
 
----
+Open to full-stack and AI engineering roles.
 
-**Parhako** — [parhako.com](https://parhako.com)  
-EdTech platform. 2,500+ users. Built an AI pipeline that processes 10,000+ scanned exam questions into structured data using Gemini API.
+## Selected projects
 
-**vectordb-lite** — [github.com/SafiullahRattar/vectordb-lite](https://github.com/SafiullahRattar/vectordb-lite)  
-Vector database with HNSW indexing written from scratch. Only dependency is numpy. Built to understand how vector search works under the hood.
+**[Parhako](https://parhako.com)** · EdTech exam prep platform, 2,500+ active users
 
-**shaderlab** — [github.com/SafiullahRattar/shaderlab](https://github.com/SafiullahRattar/shaderlab)  
-Creative coding platform for GLSL shaders. Browse and live-preview fragment shaders in the browser. React, TypeScript, WebGL, Node.js, Docker.
+An AI pipeline ingests 10,000+ scanned exam questions, structures them with the Gemini API, and serves practice questions through
+RAG retrieval and vector embeddings. Runs on AWS: ECS for services, SQS for async question processing, S3 for assets, CloudWatch
+for monitoring.
 
----
+**[vectordb-lite](https://github.com/SafiullahRattar/vectordb-lite)** · HNSW vector database written from scratch
 
-**Stack:** Python, TypeScript, React, Next.js, Node.js, PostgreSQL, AWS, Docker, LLMs, RAG
+Python and NumPy, nothing else. Multi-layer graph construction with configurable efConstruction, greedy layer descent,
+cosine/euclidean/dot-product similarity, soft-delete persistence, batch indexing, and benchmarks against brute force. Built to
+understand how vector search works under the hood.
 
-[Portfolio](https://safiullahrattar.site) · [LinkedIn](https://linkedin.com/in/safiullahrattar)
+## Stack
+
+Python, TypeScript, React, Angular, Java, Spring Boot, Node.js, Next.js, PostgreSQL, AWS, Docker, Terraform, LLMs, RAG
+
+## Elsewhere
+
+[Portfolio](https://safiullahrattar.site) · [LinkedIn](https://linkedin.com/in/safiullahrattar) · safiullahrattar313@gmail.com
