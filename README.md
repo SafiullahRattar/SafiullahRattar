@@ -1,9 +1,7 @@
 # Safiullah Rattar
 
-Full-stack and AI engineer with 5+ years building web applications, LLM pipelines, and AWS infrastructure across fintech,
-education, and logistics. 
+Full-stack and AI engineer.
 
-Open to full-stack and AI engineering roles.
 
 ## Selected projects
 
